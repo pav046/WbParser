@@ -10,6 +10,6 @@ cd WbParser
 pip install -r requirements.txt
 ```
 ## Запуск
-Запустите файл bot.py и перейдите в чат в Telegram к @WbParseringBot.
+Запустите файл `bot.py` и перейдите по ссылке **[@WbParseringBot](https://t.me/WbParseringBot)**.
 
 
